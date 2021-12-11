@@ -76,7 +76,7 @@ def hero():
     clear()
     y=1
     newperiod=period
-    banner='figlet RXCE V2 |lolcat '
+    banner='figlet Mantri V2 |lolcat '
     numbers=[]
     while(y):
         clear()
@@ -144,7 +144,7 @@ if(expirydate>today):
             period=360
             hero()
     else:
-        banner='figlet MANTRI V2|lolcat'
+        banner='figlet Mantri V2|lolcat'
         system(banner)
         #print("Hi!! Thanks for buying the hack")
         print("Hi! thanks for trying our DEMO")
@@ -171,7 +171,7 @@ else:
     test="LIFEISLOL"
     night="LOLISLIFE"
     nextday="FUCK"
-    banner='figlet MANTRI V2|lolcat'
+    banner='figlet Mantri V2|lolcat'
     rava=0
     now = datetime.datetime.now()
     Second = now.replace(hour=10, minute=55, second=0, microsecond=0)
@@ -198,6 +198,7 @@ else:
     print("Your custom hack can be made request from us.")
     print("Beware of fraudsters!!!")
     while(True):
+        
         print("If you send to any other name , then IT IS SCAMMM")
         print("--------*--------*----------*---------")
         print("send payment only to IDFC ")
@@ -210,7 +211,7 @@ else:
         bhai=input(": ")
         if(bhai==code or bhai==test):
             clear()
-            banner='figlet MANTRI V2|lolcat'
+            banner='figlet Mantri V2|lolcat'
             print("----------Your play time-----------")
             print("11th Dec 2021, 02:30 PM- 03:00 PM")
             print("11th Dec 2021, 05:30 PM- 06:00 PM")
@@ -231,7 +232,7 @@ else:
             sys.exit(" \n \n \n Contact on Telegram @IDFCMONEY")
         elif(bhai==nextday):
             clear()
-            banner='figlet MANTRI V2|lolcat'
+            banner='figlet Mantri V2|lolcat'
             system(banner)
             print("----------Your play time-----------")
             print("8th-14th Dec 2021, 02:30 PM- 03:00 PM")
@@ -247,7 +248,7 @@ else:
             sys.exit(" \n \n \n Contact on Telegram @IDFCMONEY")
         elif(bhai==night):
             clear()
-            banner='figlet MANTRI V2|lolcat'
+            banner='figlet Mantri V2|lolcat'
             print("----------Your play time-----------")
             print("9th Dec 2021,  08:30 PM- 09:00 PM")
             print("10th Dec 2021, 08:30 PM- 09:00 PM")
@@ -261,6 +262,6 @@ else:
             sys.exit(" \n \n \n Contact on Telegram @IDFCMONEY")
         else:
             clear()
-            banner='figlet MANTRI V2|lolcat'
+            banner='figlet Mantri V2|lolcat'
             system(banner)
             print("Incorrect Activation Code :")
