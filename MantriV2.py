@@ -210,6 +210,7 @@ else:
         bhai=input(": ")
         if(bhai==code or bhai==test):
             clear()
+            banner='figlet MANTRI V2|lolcat'
             print("----------Your play time-----------")
             print("11th Dec 2021, 02:30 PM- 03:00 PM")
             print("11th Dec 2021, 05:30 PM- 06:00 PM")
@@ -225,7 +226,7 @@ else:
             #rint(" of town, Tomorrow It will work as usual.")
             #print(" Thank You!!")
             #rint("To all the weekly members next week, cost will be  ")
-            #print(" 4000 INR , because in this week 2 days off " )
+            #print(" 400 INR , because in this week 2 days off " )
             #print("Thank You!! ")
             sys.exit(" \n \n \n Contact on Telegram @IDFCMONEY")
         elif(bhai==nextday):
@@ -246,6 +247,7 @@ else:
             sys.exit(" \n \n \n Contact on Telegram @IDFCMONEY")
         elif(bhai==night):
             clear()
+            banner='figlet MANTRI V2|lolcat'
             print("----------Your play time-----------")
             print("9th Dec 2021,  08:30 PM- 09:00 PM")
             print("10th Dec 2021, 08:30 PM- 09:00 PM")
