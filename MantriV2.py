@@ -171,7 +171,7 @@ else:
     test="LIFEISLOL"
     night="LOLISLIFE"
     nextday="FUCK"
-    banner='figlet RXCE V2|lolcat'
+    banner='figlet MANTRI V2|lolcat'
     rava=0
     now = datetime.datetime.now()
     Second = now.replace(hour=10, minute=55, second=0, microsecond=0)
